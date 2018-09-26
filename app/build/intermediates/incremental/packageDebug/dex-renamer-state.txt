@@ -1,0 +1,7 @@
+#Wed Nov 08 18:01:56 JST 2017
+base.0=C\:\\Users\\tanaka\\AndroidStudioProjects\\SingleLife\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_156208ac6a6d20b176432c93e5d2e7e5510b1ce7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\tanaka\\AndroidStudioProjects\\SingleLife\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_66ce8f163541f0823b5dca58cfee20e0dbafda8f\\classes.dex
+base.1=C\:\\Users\\tanaka\\AndroidStudioProjects\\SingleLife\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_66ce8f163541f0823b5dca58cfee20e0dbafda8f
+file.0=C\:\\Users\\tanaka\\AndroidStudioProjects\\SingleLife\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_156208ac6a6d20b176432c93e5d2e7e5510b1ce7\\classes.dex

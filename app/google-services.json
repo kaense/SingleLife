@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "583559956391",
+    "firebase_url": "https://singlelife-6dd26.firebaseio.com",
+    "project_id": "singlelife-6dd26",
+    "storage_bucket": "singlelife-6dd26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583559956391:android:0afe5ae8a9ac010f",
+        "android_client_info": {
+          "package_name": "com.sample.singlelife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583559956391-8kv2qrg9jn2c8l1ohdsnd2kq9uu8nars.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYxdLFUAOWgLBbR9WhO8GgcwfiIPiJZT8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
